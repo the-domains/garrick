@@ -1,0 +1,28 @@
+name: Garrick
+favicon: null
+layout_spectrum: 0.32040631165727973
+typography_spectrum: 0.07519946410320699
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.859643392264843
+  lightness: 0.2288976409472525
+  saturation: 0.25112481927499175
+  rhythmicContrast: 0.6464476252440363
+purpose: []
